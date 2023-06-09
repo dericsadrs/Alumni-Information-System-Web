@@ -19,8 +19,6 @@ The researchers would like to express their deepest gratitude to the following i
 - The researchers’ families: For their financial support and undying encouragement.
 - God: For providing guidance throughout this capstone project.
 
-# Alumni Information System
-
 ## Project Context
 The graduate stays in touch with their immediate friends but finds it difficult to stay connected with their fellow college mates and their institution. They have no idea where to contact their fellow alumni. With this problem, the researchers were able to come up with the idea of developing a generic information system for the alumni of the university. Developing a web and mobile application for keeping track of the alumni record will provide a communication tool and a platform for announcements, opportunities, questions, answers, and information that may be helpful to the alumni and the institution itself.
 
